@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/moviesmoviesmovies_and_tv/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/moviesmoviesmovies_and_tv/blob/main/img/snetflix.jpg)](#TL;DR)
+[![Banner](https://github.com/caly-pso/moviesmoviesmovies_and_tv/blob/main/img/netflix.jpg)](#TL;DR)
 
 # Movie and TV Rating Analysis
 
@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/github/repo-size/caly-pso/moviesmoviesmovies_and_tv?style=flat-square)](#TL;DR)
 [![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/moviesmoviesmovies_and_tv?style=flat-square)](#TL;DR)
 [![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/moviesmoviesmovies_and_tv?style=flat-square)](#TL;DR)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/moviesmoviesmovies_and_tv?style=flat-square)](#TL;DR)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/moviesmoviesmovies_and_tv?style=flat-square)](#TL;DR)
 
 <br>
 
