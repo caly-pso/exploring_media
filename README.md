@@ -18,7 +18,7 @@
 
 # TL;DR
 
-Analyzing ratings, avalibility, genres, actors, directors, and more!
+Analyzing ratings, availability, genres, actors, directors, and more!
 
 <br>
 
@@ -38,7 +38,7 @@ Analyzing ratings, avalibility, genres, actors, directors, and more!
 
 # Background
 
-<!-- project in breif -->
+<!-- project in brief -->
 <!-- Background
 Problem Statement
 Data Description -->
@@ -55,7 +55,7 @@ Data Description -->
 successimportantcriticalinformationalinactive
 bluevioletff69b49cf-->
 
-Using Jupyter Notebookes, I analyized the avalibility of movies and TV shows on different streaming platforms. Using vizualizations tools such as Plotly and Seaborn, I demonstrated the variation in user ratings, and explored what years were most popular for movie and show releases.
+Using Jupyter Notebooks, I analyzed the availability of movies and TV shows on different streaming platforms. Using visualizations tools such as Plotly and Seaborn, I demonstrated the variation in user ratings, and explored what years were most popular for movie and show releases.
 
 <br>
 
@@ -80,7 +80,7 @@ Navigate to the folder you wish to use
 cd Users/me/Desktop
 ```
 
-Initalize git
+Initialize git
 
 ```bash
 git init
@@ -129,7 +129,7 @@ Navigate to the ipynb files
 
 [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
 
 <br> -->
 
