@@ -65,8 +65,8 @@ Using Jupyter Notebooks, I analyzed the availability of movies and TV shows on d
 
 <!-- project preview -->
 
-[![Notebook Preview](/img/preview2.png)](https://caly-pso.github.io/project_link/BondEDA.html)
-[![Notebook Preview](/img/preview.png)](https://caly-pso.github.io/project_link/streaming_movies.html)
+[![Notebook Preview](/img/preview2.png)](#)
+[![Notebook Preview](/img/preview.png)](#)
 
 <br>
 
