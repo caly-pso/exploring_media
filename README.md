@@ -65,9 +65,8 @@ Using Jupyter Notebooks, I analyzed the availability of movies and TV shows on d
 
 <!-- project preview -->
 
-<img src="/img/preview2.png" alt="Project Notebook Preview" >
-<img src="/img/preview.png" alt="Project Notebook Preview" >
-
+[![Project Notebook Preview](/img/preview2.png)](#preview)
+[![Project Notebook Preview](/img/preview.png)](#preview)
 <br>
 
 # Installation
@@ -155,6 +154,4 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 # Contact Me
 
-[![Footer](#)](#contact-me)
-
-<img src="/img/footer.png" alt="Footer" >
+[![Footer](/img/footer.png)](#contact-me)
