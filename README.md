@@ -24,7 +24,7 @@ Analyzing ratings, availability, genres, actors, directors, and more!
 
 # Table of contents
 
-- [Movie and TV Rating Analysis](#movie-and-tv-rating-analysis)
+- [Media Analysis](#media-analysis)
 - [TL;DR](#TL;DR)
 - [Table of contents](#table-of-contents)
 - [Background](#background)
@@ -45,11 +45,11 @@ Data Description -->
 
 <!-- buttons -->
 
-[![Skills](https://img.shields.io/badge/-Python-yellowgreen?style=for-the-badge)](#movie-and-tv-rating-analysis)
-[![Skills](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge)](#movie-and-tv-rating-analysis)
-[![Skills](https://img.shields.io/badge/-Matplotlib-orange?style=for-the-badge)](#movie-and-tv-rating-analysis)
-[![Skills](https://img.shields.io/badge/-Seaborn-red?style=for-the-badge)](#movie-and-tv-rating-analysis)
-[![Skills](https://img.shields.io/badge/-Plotly-lightgrey?style=for-the-badge)](#movie-and-tv-rating-analysis)
+[![Skills](https://img.shields.io/badge/-Python-yellowgreen?style=for-the-badge)](#media-analysis)
+[![Skills](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge)](#media-analysis)
+[![Skills](https://img.shields.io/badge/-Matplotlib-orange?style=for-the-badge)](#media-analysis)
+[![Skills](https://img.shields.io/badge/-Seaborn-red?style=for-the-badge)](#media-analysis)
+[![Skills](https://img.shields.io/badge/-Plotly-lightgrey?style=for-the-badge)](#media-analysis)
 
 <!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
 successimportantcriticalinformationalinactive
@@ -88,13 +88,13 @@ git init
 Clone the repo
 
 ```bash
-git clone https://github.com/caly-pso/moviesmoviesmovies_and_tv.git
+git clone https://github.com/caly-pso/exploring_media.git
 ```
 
 Move into the project root folder
 
 ```bash
-cd moviesmoviesmovies_and_tv
+cd exploring_media
 ```
 
 Create virtual environment
