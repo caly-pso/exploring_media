@@ -26,7 +26,7 @@ Using Pandas, Seaborn, and Plotly to explore media data through vizualizations.
 
 - [Media Analysis](#media-analysis)
 - [TL;DR](#TL;DR)
-- [Table of contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [Background](#background)
 - [Preview](#preview)
 - [Installation](#installation)
@@ -73,64 +73,53 @@ Using Jupyter Notebooks, I analyzed the availability of movies and TV shows on d
 
 ###### [(Back to top)](#table-of-contents)
 
+Open your terminal/command line
+
 Navigate to the folder you wish to use
 
 ```bash
-cd Users/me/Desktop
+$ cd Users/me/Desktop
 ```
 
 Initialize git
 
 ```bash
-git init
+$ git init
 ```
 
 Clone the repo
 
 ```bash
-git clone https://github.com/caly-pso/exploring_media.git
+$ git clone https://github.com/caly-pso/exploring_media.git
 ```
 
 Move into the project root folder
 
 ```bash
-cd exploring_media
+$ cd exploring_media
 ```
 
 Create virtual environment
 
 ```bash
-python -m venv .venv
+$ python -m venv .venv
 ```
 
 Activate the environment
 
 ```bash
-source .venv/bin/activate
+$ source .venv/bin/activate
 ```
-
-<!-- Install the requirements
-
-```bash
-pip install -r requirements.txt
-``` -->
 
 Run the application locally
 
 ```bash
-jupyter notebook
+$ jupyter notebook
 ```
 
 Navigate to the ipynb files
 <br>
 
-<!-- # Development
-
-[(Back to top)](#table-of-contents)
-
-To modify this application, you need to open up the covid_app.py files, and the function and graphing python files. To
-
-<br> -->
 
 # License
 
