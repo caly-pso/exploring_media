@@ -18,7 +18,7 @@
 
 # TL;DR
 
-Analyzing ratings, availability, genres, actors, directors, and more!
+Using Pandas, Seaborn, and Plotly to explore media data through vizualizations. 
 
 <br>
 
